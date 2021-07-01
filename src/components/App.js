@@ -9,7 +9,9 @@ function App() {
     <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
       <Container>
         <Navbar.Brand href="#home">
-          <img
+          <img style={{
+            margin: '2px'
+          }}
             src={"logo.png"}
             width="30"
             height="30"
@@ -25,9 +27,9 @@ function App() {
             <Nav.Link href="#pricing">About me</Nav.Link>
             <NavDropdown title="Projects" id="collasible-nav-dropdown">
               <NavDropdown.Item href="#action/3.1">Library Automation</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.1">Virtual Job Fair</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.2">Engagement Application</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.3">Clinic Application</NavDropdown.Item>
+              <NavDropdown.Item href="#action/3.2">Virtual Job Fair</NavDropdown.Item>
+              <NavDropdown.Item href="#action/3.3">Engagement Application</NavDropdown.Item>
+              <NavDropdown.Item href="#action/3.4">Clinic Application</NavDropdown.Item>
             </NavDropdown>
           </Nav>
           <Nav>
