@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/samplereact/static/css/main.03c26e57.chunk.css",
+    "main.js": "/samplereact/static/js/main.c8abbef2.chunk.js",
+    "main.js.map": "/samplereact/static/js/main.c8abbef2.chunk.js.map",
+    "runtime-main.js": "/samplereact/static/js/runtime-main.18298369.js",
+    "runtime-main.js.map": "/samplereact/static/js/runtime-main.18298369.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/samplereact/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.d88c3b61.chunk.js": "/samplereact/static/js/2.d88c3b61.chunk.js",
+    "static/js/2.d88c3b61.chunk.js.map": "/samplereact/static/js/2.d88c3b61.chunk.js.map",
+    "index.html": "/samplereact/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/samplereact/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.03c26e57.chunk.css.map": "/samplereact/static/css/main.03c26e57.chunk.css.map",
+    "static/js/2.d88c3b61.chunk.js.LICENSE.txt": "/samplereact/static/js/2.d88c3b61.chunk.js.LICENSE.txt",
+    "static/media/op_logo.02e3ff4c.png": "/samplereact/static/media/op_logo.02e3ff4c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18298369.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.d88c3b61.chunk.js",
+    "static/css/main.03c26e57.chunk.css",
+    "static/js/main.c8abbef2.chunk.js"
+  ]
+}
