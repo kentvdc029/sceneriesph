@@ -10,7 +10,7 @@ function App() {
       <Container>
         <Navbar.Brand href="#home">
           <img style={{
-            margin: '2px'
+            padding: "5px"
           }}
             src={"logo.png"}
             width="30"
