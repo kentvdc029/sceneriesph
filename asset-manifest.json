@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sceneriesph/static/css/main.03c26e57.chunk.css",
-    "main.js": "/sceneriesph/static/js/main.c8abbef2.chunk.js",
-    "main.js.map": "/sceneriesph/static/js/main.c8abbef2.chunk.js.map",
+    "main.js": "/sceneriesph/static/js/main.d8fe164d.chunk.js",
+    "main.js.map": "/sceneriesph/static/js/main.d8fe164d.chunk.js.map",
     "runtime-main.js": "/sceneriesph/static/js/runtime-main.fa371224.js",
     "runtime-main.js.map": "/sceneriesph/static/js/runtime-main.fa371224.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/sceneriesph/static/css/2.4c97ca4f.chunk.css",
@@ -11,14 +11,13 @@
     "index.html": "/sceneriesph/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/sceneriesph/static/css/2.4c97ca4f.chunk.css.map",
     "static/css/main.03c26e57.chunk.css.map": "/sceneriesph/static/css/main.03c26e57.chunk.css.map",
-    "static/js/2.d88c3b61.chunk.js.LICENSE.txt": "/sceneriesph/static/js/2.d88c3b61.chunk.js.LICENSE.txt",
-    "static/media/op_logo.02e3ff4c.png": "/sceneriesph/static/media/op_logo.02e3ff4c.png"
+    "static/js/2.d88c3b61.chunk.js.LICENSE.txt": "/sceneriesph/static/js/2.d88c3b61.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fa371224.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.d88c3b61.chunk.js",
     "static/css/main.03c26e57.chunk.css",
-    "static/js/main.c8abbef2.chunk.js"
+    "static/js/main.d8fe164d.chunk.js"
   ]
 }
