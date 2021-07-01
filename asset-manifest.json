@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sceneriesph/static/css/main.03c26e57.chunk.css",
-    "main.js": "/sceneriesph/static/js/main.e05f0055.chunk.js",
-    "main.js.map": "/sceneriesph/static/js/main.e05f0055.chunk.js.map",
+    "main.js": "/sceneriesph/static/js/main.1fdf72bb.chunk.js",
+    "main.js.map": "/sceneriesph/static/js/main.1fdf72bb.chunk.js.map",
     "runtime-main.js": "/sceneriesph/static/js/runtime-main.fa371224.js",
     "runtime-main.js.map": "/sceneriesph/static/js/runtime-main.fa371224.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/sceneriesph/static/css/2.4c97ca4f.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.d88c3b61.chunk.js",
     "static/css/main.03c26e57.chunk.css",
-    "static/js/main.e05f0055.chunk.js"
+    "static/js/main.1fdf72bb.chunk.js"
   ]
 }
